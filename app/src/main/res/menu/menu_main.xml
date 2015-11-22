@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.app.nitesh.tried.MainActivity">
+
+    <item android:id="@+id/search"
+
+        android:icon="@drawable/abc_ic_search_api_mtrl_alpha"
+        android:title="Sreach"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="always"
+        />
+    <!--<item
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/navigate"
+        android:icon="@drawable/abc_ic_ab_back_mtrl_am_alpha"
+        android:orderInCategory="200"
+
+        android:title="@string/next"
+        app:showAsAction="always"></item>-->
+
+
+</menu>
